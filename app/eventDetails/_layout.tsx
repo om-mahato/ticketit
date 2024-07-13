@@ -4,14 +4,6 @@ export default function EventDetailsLayout() {
   return (
     <Stack
       screenOptions={{
-        headerStyle: {
-          backgroundColor: "#f4511e",
-        },
-        headerTintColor: "#fff",
-        headerTitleStyle: {
-          fontWeight: "bold",
-        },
-        headerTitle: "Event",
         headerShown: false,
       }}
     >
