@@ -1,6 +1,6 @@
 # Ticketin
-![Alt text](images/screenshot1.png)
-![Alt text](images/screenshot2.png)
+![Alt text](assets/images/screenshot1.png)
+![Alt text](assets/images/screenshot2.png)
 
 # Welcome to your Expo app 👋
 
